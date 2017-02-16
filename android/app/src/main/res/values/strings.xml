@@ -1,0 +1,5 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">83-pQ2ZjC8h4lls40nUyGVO178ecEyGv3x_Uf</string>
+
+    <string name="app_name">SMS TẾT</string>
+</resources>

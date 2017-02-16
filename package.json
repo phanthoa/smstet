@@ -1,0 +1,35 @@
+{
+  "name": "SMS",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@remobile/react-native-toast": "^1.0.5",
+    "firebase": "^3.6.4",
+    "react": "15.4.1",
+    "react-native": "0.39.2",
+    "react-native-code-push": "^1.16.1-beta",
+    "react-native-device-info": "^0.9.7",
+    "react-native-extended-stylesheet": "^0.3.0",
+    "react-native-fbads": "^3.1.1",
+    "react-native-router-flux": "^3.37.0",
+    "react-native-share": "^1.0.17",
+    "react-native-simple-toast": "0.0.5",
+    "react-native-social-share": "^0.8.0",
+    "react-native-sqlite-storage": "^3.1.2",
+    "react-native-view-shot": "^1.5.1",
+    "react-native-viewpager": "^0.2.13"
+  },
+  "devDependencies": {
+    "babel-jest": "18.0.0",
+    "babel-preset-react-native": "1.9.1",
+    "jest": "18.1.0",
+    "react-test-renderer": "15.4.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
